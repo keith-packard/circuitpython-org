@@ -23,7 +23,8 @@ programmed from the host.
 
 ## Learn More
 
-* [keithp.com](https://keithp.com/snek/snekboard)
+* [Snekboard](https://sneklang.org/snekboard)
+* [CircuitPython on Snekboard](https://sneklang.org/circuitpython-snekboard/)
 
 ## Contribute
 
